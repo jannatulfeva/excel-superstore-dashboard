@@ -93,11 +93,11 @@ The dashboard also includes interactive slicers for:
 
 # How to Run This Project
 
-Download the 
+Download the SuperstoreSalesReport .xlsx file
 
-Open the Excel workbook:
+Open the Excel workbook
 
-Open the workbook using **Microsoft Excel** and navigate to the dashboard sheet.
+Open the workbook using Microsoft Excel and navigate to the dashboard sheet.
 
 Use the available slicers to interactively filter the dashboard by:
 
